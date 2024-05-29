@@ -29,7 +29,7 @@ function(param) {
         '**/*.tf',
       ],
       modules: [
-        'github_archive/github.com/lintnet-modules/terraform-google/hcl/forbid_provider_custom_endpoint/main.jsonnet@4f81d84e6495489c68e4f9e7c7a657b30a2ce7fa:v0.0.1',
+        'github_archive/github.com/lintnet-modules/terraform-google/hcl/forbid_provider_custom_endpoint/main.jsonnet@c32e96b4af31fec0a16db1d0c848c8457099b1ec:v0.1.0',
       ],
     },
   ],
