@@ -40,7 +40,7 @@ function(param) {
         '**/tfplan.json',
       ],
       modules: [
-        'github_archive/github.com/lintnet-modules/terraform-google/plan_file/storage_bucket_force_destroy_must_be_true_to_destroy/main.jsonnet@092ce15e96ea22624208d8ecc1d59faa150b1df3:v0.1.0',
+        'github_archive/github.com/lintnet-modules/terraform-google/plan_file/storage_bucket_force_destroy_must_be_true_to_destroy/main.jsonnet@ecb6742573c7109a92c7f220a3d59c6834e64aa9:v0.1.1',
       ],
     },
   ],
